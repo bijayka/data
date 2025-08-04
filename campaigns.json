@@ -1,0 +1,41 @@
+{
+    "isSuccess": true,
+    "code": "1000",
+    "message": "Success",
+    "result": {
+        "LastUpdatedDate": "21 MAR 2024",
+        "MarketingTopCampaigns": [
+            {
+                "CampaignName": "Spring Sale",
+                "ChannelName": "Email",
+                "cnts": 150,
+                "InAEPButNotInLens": 30,
+                "MarketingQualifiedOpportunity": 75,
+                "CampaignId": "CAMP12345"
+            },
+            {
+                "CampaignName": "Summer Promotion",
+                "ChannelName": "Social Media",
+                "cnts": 200,
+                "InAEPButNotInLens": 50,
+                "MarketingQualifiedOpportunity": 100,
+                "CampaignId": "CAMP67890"
+            },
+            {
+                "CampaignName": "Fall Clearance",
+                "ChannelName": "Website",
+                "cnts": 120,
+                "InAEPButNotInLens": 20,
+                "MarketingQualifiedOpportunity": 60,
+                "CampaignId": "CAMP54321"
+            }
+        ]
+    },
+    "statistics": {
+        "requestId": "03c9461b-0d4b-4ef8-bdba-49579b76fed2",
+        "requestDate": "2025-08-04T13:53:02.3674569Z",
+        "responseDate": "2025-08-04T13:53:02.4902641Z",
+        "duration": "00:00:00.1228072",
+        "version": "7.5.0.0"
+    }
+}
